@@ -1,0 +1,1 @@
+2021-02-01 21:02:58,515 INFO [root] [baseApi.py(base_find_element:44)] -had find element请输入手机号/邮箱, by xpath via value//*[@text='请输入手机号/邮箱']

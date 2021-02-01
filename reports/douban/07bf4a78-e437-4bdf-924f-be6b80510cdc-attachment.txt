@@ -1,0 +1,5 @@
+INFO     root:baseApi.py:44 had find element帐号密码登录, by xpath via value//*[@text='帐号密码登录']
+INFO     root:baseApi.py:44 had find element请输入手机号/邮箱, by xpath via value//*[@text='请输入手机号/邮箱']
+INFO     root:baseApi.py:38 had find element请输入密码, by id via valuecom.douban.frodo:id/input_password
+INFO     root:baseApi.py:38 had find element登录, by id via valuecom.douban.frodo:id/sign_in_douban
+INFO     root:baseApi.py:44 had find element我的, by xpath via value//android.widget.TextView[@text='我的']
